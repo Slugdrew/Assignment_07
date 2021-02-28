@@ -238,7 +238,18 @@ class IO:
         return
 
     @staticmethod         
-    def error_status(error_type):
+    def error_status(error_type)
+          """Displays error messages depending on the error class name 
+
+
+        Args:
+            error_type (string): This is the class name in string form
+
+
+        Returns:
+            None.
+
+        """
         if error_type == 'FileNotFoundError':
             print('The File {} does not exists!'.format(strFileName))
             print('\n') 
