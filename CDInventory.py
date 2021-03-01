@@ -4,6 +4,8 @@
 # Change Log: (Who, When, What)
 # DBiesinger, 2030-Jan-01, Created File
 # AHernandez, 2021-Feb-20, Modified File Organized SoC Structure and added Docstrings to functions
+# AHernandez, 2021-Feb-27, Modified File Wrapped User input and File processing in Try-Except blocks
+# AHernandez, 2021-Feb-28, Modified File Changed file save to binary .dat file using Pickle
 #------------------------------------------#
 import pathlib 
 import pickle
