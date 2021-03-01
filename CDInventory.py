@@ -1,5 +1,5 @@
 #------------------------------------------#
-# Title: Assignment06.py
+# Title: CDInventory.py
 # Desc: Working with classes and functions.
 # Change Log: (Who, When, What)
 # DBiesinger, 2030-Jan-01, Created File
